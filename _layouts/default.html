@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>
+      {% if page.title == nil %}
+        {{ site.site_title }}
+      {% else %}
+        {{ page.title }} - {{ site.site_title }}
+      {% endif %}
+    </title>
+    <link href="/assets/stylesheets/site.css" media="screen" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="/assets/images/favicon.png">
+  </head>
+
+  <body>
+   {% include header.html %}
+   <div id="main">
+     {{ content }}
+   </div>
+    {% include footer.html %}
+  </body>
+</html>

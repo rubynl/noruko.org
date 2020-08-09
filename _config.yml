@@ -1,0 +1,15 @@
+host: 0.0.0.0
+plugins:
+  - generator_scss
+sass:
+  style: compressed
+  sass_dir: _sass
+markdown: kramdown
+exclude:
+  - README.md
+  - config.rb
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - tags
+site_title: "#NoRuKo"
