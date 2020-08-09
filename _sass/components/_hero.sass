@@ -6,7 +6,7 @@
 
   text-align: center
 
-  background-image: linear-gradient(#fed1ea, #fda2a2)
+  background-image: linear-gradient(170deg, #fed1ea, #fda2a2)
 
   .container
     margin: auto
@@ -23,6 +23,13 @@
 
   .description
     margin-top: 10px
+
+  @media (max-width: $container-width - 40px)
+    padding:
+      left: 20px
+      right: 20px
+    height: 100vh
+    min-height: 100vh
 
 .hero-content
   display: flex
