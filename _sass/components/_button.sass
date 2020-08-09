@@ -1,4 +1,5 @@
 .button
+  position: relative
   display: inline-block
   padding: 10px 20px 7px 20px
   color: #fff
@@ -6,12 +7,13 @@
   font-weight: bold
   text-shadow: #4f0608 1px 1px 1px
 
-  background-color: #fda2a2
-  /* background: linear-gradient(#f20022, #c8001d) */
-  background-image: linear-gradient(90deg, #fed1ea, #fda2a2)
-  border: 1px solid #a00c07
+  background-color: #ff2645
   border-radius: 4px
+  box-shadow: 0px 2px 3px #b5b5b5
 
   &:hover
-    box-shadow: 0 2px 5px #4f0608 inset
-    transition: all 0.2s ease-out
+    top: 2px
+    text-decoration: none
+    background-color: $link-color
+    background-image: linear-gradient(170deg, $link-color, $link-color)
+    box-shadow: 0px 0px 0px #b5b5b5
