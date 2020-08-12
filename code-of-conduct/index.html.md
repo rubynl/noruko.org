@@ -66,11 +66,6 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
 <a href="mailto:amsrborgs@rubynl.org">CoC team</a>.
 
-**The CoC team:** 
-Rayta van Rijswijk, she/her, Dutch & English
-Floor Drees, she/her, Dutch, German & English
-Derk-Jan Karrenbeld, he/his, Dutch & English
-
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
