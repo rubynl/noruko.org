@@ -122,6 +122,83 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
+## Ruby Karaoke / #Quaraoke
+We want our Ruby Karaoke event to be welcoming, inclusive and divers so we’d like you to consider these points before choosing a song:
+
+* Use good judgement when it comes to song choices. If you’re not sure about a word or slur in a song, don’t choose the song.
+* Profanity, racist slurs, high NSFW-level or misogynistic songs are not inclusive.
+
+The organizers want to ensure that marginalized people in the room will feel safe and comfortable. The CoC team will review all songs that come in, so we’ve got your back.
+
+## CoC Team 
+* Rayta van Rijswijk, she/her, Dutch & English
+* Floor Drees, she/her, Dutch, German & English
+* Derk-Jan Karrenbeld, he/his, Dutch & English
+* Piotr Szotkowski, he/his, Polish & English
+
+<section class="section section-dark" id="team">
+  <div class="container">
+
+    <div class="people-list">
+      <div class="person">
+        <img src="/assets/images/people/rayta_van_rijswijk.jpg">
+        <h3 class="name">
+          Rayta van Rijswijk
+        </h3>
+        <p class="social">
+          <a href="https://twitter.com/raytalks">
+            <svg class="tw-icon" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 20">
+              <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
+        </p>
+      </div>
+
+      <div class="person">
+        <img src="/assets/images/people/floor_drees.jpg">
+        <h3 class="name">
+          Floor Drees
+        </h3>
+        <p class="social">
+          <a href="https://twitter.com/floordrees">
+            <svg class="tw-icon" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 20">
+              <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
+        </p>
+      </div>
+
+      <div class="person">
+        <img src="/assets/images/people/derk_jan_karrenbeld.jpg">
+        <h3 class="name">
+          Derk-Jan Karrenbeld
+        </h3>
+        <p class="social">
+          <a href="https://twitter.com/SleeplessByte">
+            <svg class="tw-icon" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 20">
+              <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
+        </p>
+      </div>
+
+      <div class="person">
+        <img src="/assets/images/people/piotr_szotkowski.jpg">
+        <h3 class="name">
+          Piotr Szotkowski
+        </h3>
+        <p class="social">
+          <a href="https://twitter.com/chastell">
+            <svg class="tw-icon" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 20">
+              <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
@@ -136,3 +213,4 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
