@@ -1,0 +1,60 @@
+#schedule
+  p
+    margin-bottom: 40px
+
+  .tracks
+    display: flex
+    justify-content: space-around
+
+  .track
+    flex-grow: 1
+    max-width: calc(50% - 20px)
+
+  h3
+    margin-top: 20px
+
+  .community-track
+    td:first-child
+      display: none
+
+  table
+    width: 100%
+
+  td
+    padding: 10px
+    font-size: 0.8rem
+    text-align: left
+
+  td:first-child
+    width: 60px
+    font-feature-settings: "tnum"
+    font-variant-numeric: tabular-nums
+
+  tr.break td
+    padding:
+      top: 30px
+      bottom: 30px
+
+  .talk
+    font-weight: bold
+    background-color: #F1CCFF
+
+  .talk-description
+    font-style: italic
+    background-color: #FAEDFF
+
+  .panel
+    font-weight: bold
+    background-color: #CCE0FF
+
+  .panel-description
+    font-style: italic
+    background-color: #E6F0FF
+
+  @media (max-width: $container-width)
+    .tracks
+      display: block
+
+    .track
+      width: 100%
+      max-width: 100%

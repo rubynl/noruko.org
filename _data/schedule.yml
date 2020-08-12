@@ -1,0 +1,104 @@
+- time: "15:00"
+  type: "other"
+  main:
+    title: "Welcome and intro"
+  community:
+    title: "See main track"
+
+- time: "15:15"
+  type: "talk"
+  main:
+    speaker: "Yukihiro Matsumoto"
+    title: "Talk #1"
+    description: "Talk description"
+  community:
+    speaker: "?"
+    title: "Talk #1"
+    description: "Talk description"
+
+- time: "16:00"
+  type: "talk"
+  main:
+    speaker: "?"
+    title: "Talk #2"
+    description: "Talk description"
+  community:
+    speaker: "?"
+    title: "Talk #2"
+    description: "Talk description"
+
+- time: "16:45"
+  type: "talk"
+  main:
+    speaker: "?"
+    title: "Talk #3"
+    description: "Talk description"
+  community:
+    speaker: "?"
+    title: "Talk #3"
+    description: "Talk description"
+
+- time: "17:30"
+  type: "panel"
+  main:
+    title: "Panel part 1"
+    description: "Panel description"
+  community:
+    title: "See main track"
+    description: "&nbsp;"
+
+- time: "18:00"
+  type: "break"
+  main:
+    title: "Break / Musical intermezzo"
+  community:
+    title: "Break / Musical intermezzo"
+
+- time: "18:30"
+  type: "talk"
+  main:
+    speaker: "?"
+    title: "Talk #4"
+    description: "Talk description"
+  community:
+    speaker: "?"
+    title: "Talk #4"
+    description: "Talk description"
+
+- time: "19:15"
+  type: "talk"
+  main:
+    speaker: "?"
+    title: "Talk #5"
+    description: "Talk description"
+  community:
+    speaker: "?"
+    title: "Talk #5"
+    description: "Talk description"
+
+- time: "20:00"
+  type: "talk"
+  main:
+    speaker: "?"
+    title: "Talk #6"
+    description: "Talk description"
+  community:
+    speaker: "?"
+    title: "Talk #6"
+    description: "Talk description"
+
+- time: "20:45"
+  type: "panel"
+  main:
+    title: "Panel part 2"
+    description: "Panel description"
+  community:
+    title: "See main track"
+    description: "&nbsp;"
+
+- time: "21:15"
+  type: "other"
+  main:
+    title: "Afterparty / #Quaraoke (virtual karaoke)"
+  community:
+    title: "See main track"
