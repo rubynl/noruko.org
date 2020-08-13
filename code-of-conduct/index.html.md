@@ -128,8 +128,8 @@ The organizers want to ensure that marginalized people in the room will feel saf
 ## CoC Team 
 * Rayta van Rijswijk, she/her, Dutch & English
 * Floor Drees, she/her, Dutch, German & English
-* Derk-Jan Karrenbeld, he/his, Dutch & English
-* Piotr Szotkowski, he/his, Polish & English
+* Derk-Jan Karrenbeld, he/him, Dutch & English
+* Piotr Szotkowski, he/him, Polish & English
 
 <section class="section section-dark" id="team">
   <div class="container">
