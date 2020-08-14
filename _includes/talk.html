@@ -1,6 +1,11 @@
 <tr class="talk">
   <td>{{include.time}}</td>
-  <td>{{include.entry.title}} - {{include.entry.speaker}}</td>
+  <td>
+    {{include.entry.title}}
+    {% if include.entry.speaker != "" %}
+    <div class="speaker">by {{include.entry.speaker}}</div>
+    {% endif %}
+  </td>
 </tr>
 <tr>
   <td colspan="2" class="talk-description">{{include.entry.description}}</td>

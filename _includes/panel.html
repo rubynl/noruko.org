@@ -2,6 +2,8 @@
   <td>{{include.time}}</td>
   <td>{{include.entry.title}}</td>
 </tr>
+{% if include.entry.description != "" %}
 <tr>
   <td colspan="2" class="panel-description">{{include.entry.description}}</td>
 </tr>
+{% endif %}
