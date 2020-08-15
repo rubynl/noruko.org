@@ -1,0 +1,9 @@
+<tr class="panel">
+  <td><span title="{{include.time}} CEST time, UTC +02:00">{{include.time}}</span></td>
+  <td>{{include.entry.title}}</td>
+</tr>
+{% if include.entry.description != "" %}
+<tr>
+  <td colspan="2" class="panel-description">{{include.entry.description}}</td>
+</tr>
+{% endif %}

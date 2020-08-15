@@ -1,0 +1,104 @@
+- time: "15:00"
+  type: "other"
+  main:
+    title: "Welcome and intro"
+  community:
+    title: "See the main track"
+
+- time: "15:15"
+  type: "talk"
+  main:
+    speaker: "Yukihiro Matsumoto"
+    title: "Ruby3 and beyond"
+    description: " Ruby3 is coming! The creator of the language himself explains what is coming with Ruby3. In addition, what will happen after Ruby3.0!"
+  community:
+    speaker: ""
+    title: "See the main track"
+    description: "No talk on the community track. Please watch the opening keynote."
+
+- time: "16:00"
+  type: "talk"
+  main:
+    speaker: "Penelope Phippen"
+    title: "Building Rubyfmt"
+    description: "In this talk I'll discuss Rubyfmt, a work in progress Ruby autoformatter. Why I'm building it, and how it differs from Rubocop, the closest similar tool that you might be familiar with. I'll get deep in to the weeds on some of the technical challenges of building a system like this, and what the overall goals for the project are."
+  community:
+    speaker: "Julik Tarkhanov"
+    title: "TBA"
+    description: ""
+
+- time: "16:45"
+  type: "talk"
+  main:
+    speaker: "Tetiana Chupryna"
+    title: "Ruby + OpenGL = infinite abilities"
+    description: "In this talk we’ll explore what can we create using Ruby and OpenGL. We’ll talk about drawing pictures, designing animations and building interfaces. You’ll learn about the basics of OpenGL and eventually, how you can build your own game engine."
+  community:
+    speaker: "TBA"
+    title: "Session 3"
+    description: ""
+
+- time: "17:30"
+  type: "panel"
+  main:
+    title: "Panel part 1"
+    description: "Panel description"
+  community:
+    title: "See the panel on the main track"
+    description: ""
+
+- time: "18:00"
+  type: "break"
+  main:
+    title: "Break / Musical intermezzo"
+  community:
+    title: "Break / Musical intermezzo"
+
+- time: "18:30"
+  type: "talk"
+  main:
+    speaker: "Tom de Bruijn"
+    title: "Git is about communication"
+    description: "Git is about talking to your team. It’s about talking to yourself, from the future. What about that colleague who hasn’t even joined the team yet? Yes, them too. But how to be \"good at Git\"?"
+  community:
+    speaker: "TBA"
+    title: "Session 4"
+    description: ""
+
+- time: "19:15"
+  type: "talk"
+  main:
+    speaker: "Allison McMillan"
+    title: "TBA"
+    description: ""
+  community:
+    speaker: "TBA"
+    title: "Session 5"
+    description: ""
+
+- time: "20:00"
+  type: "talk"
+  main:
+    speaker: "TBA"
+    title: "Talk #6"
+    description: ""
+  community:
+    speaker: "TBA"
+    title: "Session 6"
+    description: ""
+
+- time: "20:45"
+  type: "panel"
+  main:
+    title: "Panel part 2"
+    description: "Panel description"
+  community:
+    title: "See the panel on the main track"
+    description: ""
+
+- time: "21:15"
+  type: "other"
+  main:
+    title: "Afterparty / #Quaraoke (virtual karaoke)"
+  community:
+    title: "See the main track"

@@ -179,9 +179,62 @@ layout: default
   <div class="container">
     <h2>Schedule</h2>
 
-    <p>
-      To be announced
-    </p>
+    <p>#NoRuko will take place Friday 21th of August.</p>
+    <p>All times are in CEST (Central European Summer Time, UTC +02:00).</p>
+    <p>The schedule is subject to change.</p>
+
+    <div class="tracks">
+      <div class="track">
+        <h3>Main track</h3>
+        <table>
+          <colgroup>
+            <col class="time">
+            <col class="event">
+            <col class="time">
+            <col class="event">
+          </colgroup>
+          <tbody>
+            {% for entry in site.data.schedule %}
+            {% case entry.type %}
+            {% when "talk" %}
+            {% include talk.html time=entry.time entry=entry.main %}
+            {% when "panel" %}
+            {% include panel.html time=entry.time entry=entry.main %}
+            {% when "other" %}
+            {% include other.html time=entry.time entry=entry.main %}
+            {% when "break" %}
+            {% include break.html time=entry.time entry=entry.main %}
+            {% endcase %}
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+      <div class="track">
+        <h3>Community track</h3>
+        <table>
+          <colgroup>
+            <col class="time">
+            <col class="event">
+            <col class="time">
+            <col class="event">
+          </colgroup>
+          <tbody>
+            {% for entry in site.data.schedule %}
+            {% case entry.type %}
+            {% when "talk" %}
+            {% include talk.html time=entry.time entry=entry.community %}
+            {% when "panel" %}
+            {% include panel.html time=entry.time entry=entry.community %}
+            {% when "other" %}
+            {% include other.html time=entry.time entry=entry.community %}
+            {% when "break" %}
+            {% include break.html time=entry.time entry=entry.community %}
+            {% endcase %}
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
   </div>
 </section>
 

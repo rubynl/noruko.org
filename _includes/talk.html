@@ -1,0 +1,12 @@
+<tr class="talk">
+  <td><span title="{{include.time}} CEST time, UTC +02:00">{{include.time}}</span></td>
+  <td>
+    {{include.entry.title}}
+    {% if include.entry.speaker != "" %}
+    <div class="speaker">by {{include.entry.speaker}}</div>
+    {% endif %}
+  </td>
+</tr>
+<tr>
+  <td colspan="2" class="talk-description">{{include.entry.description}}</td>
+</tr>
