@@ -42,7 +42,7 @@
   type: "panel"
   main:
     title: "Panel part 1"
-    description: ""
+    description: "Penelope and Tetiana talk through the first part of the day, with the NoRuKo hosts."
   community:
     title: "See the panel on the main track"
     description: ""
@@ -61,16 +61,16 @@
     title: "Git is about communication"
     description: "Git is about talking to your team. It’s about talking to yourself, from the future. What about that colleague who hasn’t even joined the team yet? Yes, them too. But how to be \"good at Git\"?"
   community:
-    speaker: "TBA"
-    title: "Session 4"
-    description: ""
+    speaker: "Siân Griffin"
+    title: "Learning Empathy From Pokemon Blue"
+    description: "Have you ever looked at a bug and wondered why it actually happens? It's easy to chalk it up to sloppy coding but that's almost never the case. In this talk we'll be dissecting a exploit from Pokemon Blue known as the "Missingno" glitch. We'll look at the details of each of the seemingly random bugs behind this exploit. We'll look at why these bugs happened, and the lessons we can apply to our Ruby code more than 20 years later."
 
 - time: "19:15"
   type: "talk"
   main:
     speaker: "Allison McMillan"
-    title: "TBA"
-    description: ""
+    title: "Everything is 🔥fine🔥"
+    description: "Working during a global pandemic offers unique challenges. Parents, in particular, are facing a world of new responsibilities resulting in burn out, information overload, and other COVID side effects. The only question is what will break first… parents or the way we work?"
   community:
     speaker: "TBA"
     title: "Session 5"
