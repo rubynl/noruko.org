@@ -125,7 +125,8 @@ We want our Ruby Karaoke event to be welcoming, inclusive and divers so we’d l
 
 The organizers want to ensure that marginalized people in the room will feel safe and comfortable. The CoC team will review all songs that come in, so we’ve got your back.
 
-## CoC Team 
+## CoC Team
+
 * Rayta van Rijswijk, she/her, Dutch & English
 * Floor Drees, she/her, Dutch, German & English
 * Derk-Jan Karrenbeld, he/him, Dutch & English
@@ -198,7 +199,7 @@ The organizers want to ensure that marginalized people in the room will feel saf
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
-https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+[www.contributor-covenant.org/version/2/0/code_of_conduct.html](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
 
 Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
@@ -206,6 +207,6 @@ enforcement ladder](https://github.com/mozilla/diversity).
 [homepage]: https://www.contributor-covenant.org
 
 For answers to common questions about this code of conduct, see the FAQ at
-https://www.contributor-covenant.org/faq. Translations are available at
-https://www.contributor-covenant.org/translations.
-
+[www.contributor-covenant.org/faq](https://www.contributor-covenant.org/faq).
+Translations are available at
+[www.contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
