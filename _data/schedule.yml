@@ -42,7 +42,7 @@
   type: "panel"
   main:
     title: "Panel part 1"
-    description: "Panel description"
+    description: ""
   community:
     title: "See the panel on the main track"
     description: ""
@@ -91,7 +91,7 @@
   type: "panel"
   main:
     title: "Panel part 2"
-    description: "Panel description"
+    description: ""
   community:
     title: "See the panel on the main track"
     description: ""
