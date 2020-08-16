@@ -34,9 +34,9 @@
     title: "Ruby + OpenGL = infinite abilities"
     description: "In this talk we’ll explore what can we create using Ruby and OpenGL. We’ll talk about drawing pictures, designing animations and building interfaces. You’ll learn about the basics of OpenGL and eventually, how you can build your own game engine."
   community:
-    speaker: "TBA"
-    title: "Session 3"
-    description: ""
+    speaker: "Miriam Tocino"
+    title: "Zerus & Ona: A warm welcome to the world of computers"
+    description: "Miriam Tocino shares the idea behind Zerus & Ona — her unique book series designed to get young children excited about technology through the power of books."
 
 - time: "17:30"
   type: "panel"
