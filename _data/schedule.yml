@@ -83,9 +83,9 @@
     title: "Talk #6"
     description: ""
   community:
-    speaker: "TBA"
-    title: "Session 6"
-    description: ""
+    speaker: "Amr Abdelwahab"
+    title: "Dockerization in the land of Ruby"
+    description: "With the rise of microservices, DevOps culture & distributed systems architecture. Docker and other containerization tool are turning into these - Go-to by default - tools that every software engineer is assumed to know well."
 
 - time: "20:45"
   type: "panel"
