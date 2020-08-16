@@ -23,9 +23,9 @@
     title: "Building Rubyfmt"
     description: "In this talk I'll discuss Rubyfmt, a work in progress Ruby autoformatter. Why I'm building it, and how it differs from Rubocop, the closest similar tool that you might be familiar with. I'll get deep in to the weeds on some of the technical challenges of building a system like this, and what the overall goals for the project are."
   community:
-    speaker: "Julik Tarkhanov"
-    title: "TBA"
-    description: ""
+    speaker: "Julik Tarkhanov & Kir Shatrov"
+    title: "Sleeping on the job"
+    description: "We all love our Sidekiq’s and our Resque’s. But they do let us down sometimes. Not because they are bad, but because the queueing theory is limiting us. There is a way to break out of the madness though - let’s explore how to get our job queues under control"
 
 - time: "16:45"
   type: "talk"
