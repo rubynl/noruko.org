@@ -19,14 +19,16 @@
   h1
     margin-bottom: 50px
 
+  p
+    overflow-wrap: break-word
+
+.section-content,
+.section-page
   p ~ h1,
   p ~ h2,
   p ~ h3,
   p ~ h4
     margin-top: 40px
-
-  p
-    overflow-wrap: break-word
 
 .section-dark
   background-color: #faedff
@@ -35,5 +37,5 @@
   padding: 20px
   text-align: center
 
-  .button
+  .button:not(:last-child)
     margin-bottom: 20px
