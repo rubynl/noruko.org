@@ -23,9 +23,9 @@
     title: "Building Rubyfmt"
     description: "In this talk I'll discuss Rubyfmt, a work in progress Ruby autoformatter. Why I'm building it, and how it differs from Rubocop, the closest similar tool that you might be familiar with. I'll get deep in to the weeds on some of the technical challenges of building a system like this, and what the overall goals for the project are."
   community:
-    speaker: "Julik Tarkhanov & Kir Shatrov"
-    title: "Sleeping on the job"
-    description: "We all love our Sidekiq’s and our Resque’s. But they do let us down sometimes. Not because they are bad, but because the queueing theory is limiting us. There is a way to break out of the madness though - let’s explore how to get our job queues under control"
+    speaker: "Phil Nash"
+    title: "Fantastic Passwords and Where to Find Them"
+    description: "The humble password is broken. The internet is littered with poor security practices and password breaches, but the world is not ready to go password free yet. So what can we do to protect our users? Let's take a look at how we currently protect passwords, at what we can throw away from those processes and what we can bring in to help strengthen our users' passwords. We'll investigate the tools, practices and APIs that can help us in this endeavour. Together we can move the world from *password1* to *correct horse battery staple* and beyond!"
 
 - time: "16:45"
   type: "talk"
@@ -34,9 +34,9 @@
     title: "Ruby + OpenGL = infinite abilities"
     description: "In this talk we’ll explore what can we create using Ruby and OpenGL. We’ll talk about drawing pictures, designing animations and building interfaces. You’ll learn about the basics of OpenGL and eventually, how you can build your own game engine."
   community:
-    speaker: "Miriam Tocino"
-    title: "Zerus & Ona: A warm welcome to the world of computers"
-    description: "Miriam Tocino shares the idea behind Zerus & Ona — her unique book series designed to get young children excited about technology through the power of books."
+    speaker: "Ali Ilman"
+    title: "Type Checking with Sorbet"
+    description: "If you enjoy building projects using TypeScript, you probably wish you could build Ruby projects with a type checker. I've been in that boat! Recently, I stumbled upon Sorbet, a well-maintained type checker for Ruby. In this talk, we'll take a look at how we can use Sorbet."
 
 - time: "17:30"
   type: "panel"
@@ -50,9 +50,9 @@
 - time: "18:00"
   type: "break"
   main:
-    title: "Break / Musical intermezzo"
+    title: "Break / Musical intermezzo by Jan Krutisch"
   community:
-    title: "Break / Musical intermezzo"
+    title: "Break / Musical intermezzo by Jan Krutisch"
 
 - time: "18:30"
   type: "talk"
@@ -72,20 +72,20 @@
     title: "Everything is 🔥fine🔥"
     description: "Working during a global pandemic offers unique challenges. Parents, in particular, are facing a world of new responsibilities resulting in burn out, information overload, and other COVID side effects. The only question is what will break first… parents or the way we work?"
   community:
-    speaker: "TBA"
-    title: "Session 5"
-    description: ""
+    speaker: "Miriam Tocino"
+    title: "Zerus & Ona: A warm welcome to the world of computers"
+    description: "Miriam Tocino shares the idea behind Zerus & Ona — her unique book series designed to get young children excited about technology through the power of books."
 
 - time: "20:00"
   type: "talk"
   main:
-    speaker: "TBA"
-    title: "Talk #6"
-    description: ""
+    speaker: "Julik Tarkhanov & Kir Shatrov"
+    title: "Sleeping on the job"
+    description: "We all love our Sidekiq’s and our Resque’s. But they do let us down sometimes. Not because they are bad, but because the queueing theory is limiting us. There is a way to break out of the madness though - let’s explore how to get our job queues under control"
   community:
     speaker: "Amr Abdelwahab"
     title: "Dockerization in the land of Ruby"
-    description: "With the rise of microservices, DevOps culture & distributed systems architecture. Docker and other containerization tool are turning into these - Go-to by default - tools that every software engineer is assumed to know well."
+    description: "With the rise of microservices, DevOps culture & distributed systems architecture. Docker and other containerization tools land square in the Developer toolbelt. Amr will give us a primer on Docker et al."
 
 - time: "20:45"
   type: "panel"
@@ -101,4 +101,4 @@
   main:
     title: "Afterparty / #Quaraoke (virtual karaoke)"
   community:
-    title: "See the main track"
+    title: "Afterparty / #Quaraoke (virtual karaoke)"
