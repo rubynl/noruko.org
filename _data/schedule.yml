@@ -85,7 +85,7 @@
   community:
     speaker: "Amr Abdelwahab"
     title: "Dockerization in the land of Ruby"
-    description: "With the rise of microservices, DevOps culture & distributed systems architecture. Docker and other containerization tool are turning into these - Go-to by default - tools that every software engineer is assumed to know well."
+    description: "Whether you have never seen a dockerfile in your life or you have been working on a daily basis with docker in different environments, join this talk to learn some tips and tricks on improving your docker setup all the way from development to live environments passing through continuous integration."
 
 - time: "20:45"
   type: "panel"
