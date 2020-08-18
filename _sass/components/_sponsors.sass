@@ -7,13 +7,23 @@
   margin-top: 40px
 
   .sponsor
+    display: flex
+    justify-content: space-between
+    align-content: space-between
+    flex-direction: column
     position: relative
     top: 0
+    width: 270px
+    height: 128px
     box-shadow: 1px 1px 4px rgba(0,0,0,0.2)
 
     a
       display: block
       padding: 20px
+
+    img
+      max-width: 200px
+      object-fit: contain
 
     p
       margin-bottom: 10px
@@ -21,3 +31,6 @@
 
     &:hover
       top: -3px
+
+  .sponsor:not(:last-child)
+    margin-right: 40px
