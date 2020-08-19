@@ -274,16 +274,17 @@ layout: default
             <col class="event">
           </colgroup>
           <tbody>
-            {% for entry in site.data.schedule %}
+            {% for time_entry in site.data.schedule %}
+            {% assign entry = time_entry.main %}
             {% case entry.type %}
             {% when "talk" %}
-            {% include talk.html time=entry.time entry=entry.main %}
+            {% include talk.html time=time_entry.time entry=entry %}
             {% when "panel" %}
-            {% include panel.html time=entry.time entry=entry.main %}
+            {% include panel.html time=time_entry.time entry=entry %}
             {% when "other" %}
-            {% include other.html time=entry.time entry=entry.main %}
+            {% include other.html time=time_entry.time entry=entry %}
             {% when "break" %}
-            {% include break.html time=entry.time entry=entry.main %}
+            {% include break.html time=time_entry.time entry=entry %}
             {% endcase %}
             {% endfor %}
           </tbody>
@@ -299,16 +300,17 @@ layout: default
             <col class="event">
           </colgroup>
           <tbody>
-            {% for entry in site.data.schedule %}
+            {% for time_entry in site.data.schedule %}
+            {% assign entry = time_entry.community %}
             {% case entry.type %}
             {% when "talk" %}
-            {% include talk.html time=entry.time entry=entry.community %}
+            {% include talk.html time=time_entry.time entry=entry %}
             {% when "panel" %}
-            {% include panel.html time=entry.time entry=entry.community %}
+            {% include panel.html time=time_entry.time entry=entry %}
             {% when "other" %}
-            {% include other.html time=entry.time entry=entry.community %}
+            {% include other.html time=time_entry.time entry=entry %}
             {% when "break" %}
-            {% include break.html time=entry.time entry=entry.community %}
+            {% include break.html time=time_entry.time entry=entry %}
             {% endcase %}
             {% endfor %}
           </tbody>
