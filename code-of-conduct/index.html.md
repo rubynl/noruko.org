@@ -147,6 +147,11 @@ The organizers want to ensure that marginalized people in the room will feel saf
               <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
             </svg>
           </a>
+          <a href="https://t.me/raytalks">
+            <svg class="tg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+              <use href="#tg-icon" xlink:href="#tg-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
         </p>
       </div>
 
@@ -159,6 +164,11 @@ The organizers want to ensure that marginalized people in the room will feel saf
           <a href="https://twitter.com/floordrees">
             <svg class="tw-icon" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 20">
               <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
+          <a href="https://t.me/floord">
+            <svg class="tg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+              <use href="#tg-icon" xlink:href="#tg-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
             </svg>
           </a>
         </p>
@@ -187,6 +197,11 @@ The organizers want to ensure that marginalized people in the room will feel saf
           <a href="https://twitter.com/chastell">
             <svg class="tw-icon" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 20">
               <use href="#tw-icon" xlink:href="#tw-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
+            </svg>
+          </a>
+          <a href="https://t.me/chastell">
+            <svg class="tg-icon" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+              <use href="#tg-icon" xlink:href="#tg-icon" xmlns:xlink="http://www.w3.org/1999/xlink"></use>
             </svg>
           </a>
         </p>
