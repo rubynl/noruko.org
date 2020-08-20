@@ -15,6 +15,7 @@
     top: 0
     width: 270px
     height: 128px
+    margin-bottom: 40px
     box-shadow: 1px 1px 4px rgba(0,0,0,0.2)
 
     a
@@ -34,3 +35,14 @@
 
   .sponsor:not(:last-child)
     margin-right: 40px
+
+    @media (max-width: $container-width)
+      margin-right: 0
+
+  @media (max-width: $container-width)
+    display: block
+
+    .sponsor
+      margin:
+        left: auto !important
+        right: auto !important
