@@ -2,3 +2,10 @@
   <td><span title="{{include.time}} CEST time, UTC +02:00">{{include.time}}</span></td>
   <td>{{include.entry.title}}</td>
 </tr>
+{% if include.entry.video != "" %}
+<tr>
+  <td colspan="2" class="break-video">
+    <a href="{{include.entry.video}}" class="button video-button">Rewatch</a>
+  </td>
+</tr>
+{% endif %}
