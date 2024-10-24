@@ -1,4 +1,4 @@
-# NoRuKo.org
+# NoRuKo
 
 ## Installation
 
